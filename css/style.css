@@ -1,7 +1,7 @@
 body {
   font-family: 'Noticia Text', serif;
   color: #141423;
-  background: #FEFEFE url('img/bg-elf.jpg') ;
+  background: #FEFEFE url('img/bg-elf-5.jpg') ;
 }
 
 a {
@@ -54,12 +54,7 @@ ul.nav li a {
 
 #intro {
   margin: 50px 0 75px 0;
-  background-color: #FEFEFE;
   border-radius: 25px;
-}
-
-#new-cupcakes {
-  background-color: #FEFEFE;
 }
 
 #new-cupcakes img {
@@ -68,7 +63,6 @@ ul.nav li a {
 }
 
 #featured-cupcake {
-  background-color: #FEFEFE;
   border-radius: 25px;
 }
 
@@ -76,18 +70,10 @@ ul.nav li a {
   border: 8px solid #FAF3BC;
 }
 
-#inside_kitchen {
-  background: #FEFEFE;
-}
-
-#get_with_us {
-  background-color: #FEFEFE;
-}
 
 #copyright {
   border-top: 8px solid #2A0400;
   padding: 10px 0px;
   margin: 15px 0px;
   text-align: center;
-  background-color: #FEFEFE;
 }
