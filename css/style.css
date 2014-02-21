@@ -32,8 +32,13 @@ h2 {
   background-color: #101010;
 }
 
+.center {
+  text-align: center;
+}
+
 ul.nav {
-  margin: 20px 0 10px 0;
+  margin: 10px 0 10px 0;
+  display: inline-block;
   list-style: none;
   float:  right;
 }
