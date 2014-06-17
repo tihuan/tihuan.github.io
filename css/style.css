@@ -16,7 +16,6 @@ h1 {
 
 h2 {
   font-size: 1.7vw;
-  /*font-size: 1.500em;*/
   color: #141423;
 }
 
@@ -71,8 +70,8 @@ ul.nav li a:hover {
   color: #E6B800;
 }
 
-#logo img {
-  border-radius: 25px;
+#logo {
+  margin: 0 auto;
 }
 
 #work-elf {
@@ -103,10 +102,6 @@ ul.nav li a:hover {
   text-align: center;
 }
 
-/*@media(max-width: 1248px) {
-
-}*/
-
 @media(max-width: 1248px) {
 
   h1 {
@@ -116,7 +111,6 @@ ul.nav li a:hover {
 
   h2 {
     font-size: 1.7vw;
-    /*font-size: 1.500em;*/
     color: #141423;
   }
 
