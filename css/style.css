@@ -97,8 +97,8 @@ ul.nav li a:hover {
 
 #copyright {
   border-top: 8px solid #2A0400;
-  padding: 10px 0px;
-  margin: 15px 0px;
+  padding: 10px 0;
+  margin: 15px 0;
   text-align: center;
 }
 
@@ -124,6 +124,7 @@ ul.nav li a:hover {
 
   #work-elf {
     float: none;
+    clear: both;
     max-width: 30%;
     display: block;
     margin: 0 auto;
